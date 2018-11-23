@@ -2,7 +2,7 @@ package com.winture.thirdparty.payment.service;
 
 /**
  * 支付接口
- * @Author: xy.zheng
+ * @Author: swinture
  * @Date: 2018/11/5
  * @Version V1.0
  */

@@ -11,7 +11,7 @@ import java.util.Map;
 
 /**
  * APP端支付参数
- * @Author: xy.zheng
+ * @Author: swinture
  * @Date: 2018/11/6
  * @Version V1.0
  */

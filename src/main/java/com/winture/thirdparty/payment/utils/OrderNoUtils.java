@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * 订单号生成工具类
- * @Author: xy.zheng
+ * @Author: swinture
  * @Date: 2018/9/29
  * @Version V1.0
  */

@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * 退款查询请求
- * @Author: xy.zheng
+ * @Author: swinture
  * @Date: 2018/11/6
  * @Version V1.0
  */
